@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "1030143852767",
+    "firebase_url": "https://mlkit-tuts.firebaseio.com",
+    "project_id": "mlkit-tuts",
+    "storage_bucket": "mlkit-tuts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030143852767:android:7d34af0dcc2951e846296a",
+        "android_client_info": {
+          "package_name": "com.andreh.chatsuggestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030143852767-un70lu47971q7qa79s7kbl6v9kg6ebam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUCHRqagBXsB_3UECm3FyNI8LHbbm--w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030143852767-un70lu47971q7qa79s7kbl6v9kg6ebam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030143852767-b5pqonf85jk6177968e2kls8h2sk0qec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andreh.Recognizer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030143852767:android:8fb746ad5290c3d846296a",
+        "android_client_info": {
+          "package_name": "com.andreh.creditcardreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030143852767-un70lu47971q7qa79s7kbl6v9kg6ebam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUCHRqagBXsB_3UECm3FyNI8LHbbm--w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030143852767-un70lu47971q7qa79s7kbl6v9kg6ebam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030143852767-b5pqonf85jk6177968e2kls8h2sk0qec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andreh.Recognizer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030143852767:android:9c74e7b465aa653a46296a",
+        "android_client_info": {
+          "package_name": "com.andreh.objecttracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030143852767-un70lu47971q7qa79s7kbl6v9kg6ebam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUCHRqagBXsB_3UECm3FyNI8LHbbm--w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030143852767-un70lu47971q7qa79s7kbl6v9kg6ebam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030143852767-b5pqonf85jk6177968e2kls8h2sk0qec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andreh.Recognizer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030143852767:android:7598ce1efd00c2a246296a",
+        "android_client_info": {
+          "package_name": "com.andreh.whatisthis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030143852767-un70lu47971q7qa79s7kbl6v9kg6ebam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASUCHRqagBXsB_3UECm3FyNI8LHbbm--w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030143852767-un70lu47971q7qa79s7kbl6v9kg6ebam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030143852767-b5pqonf85jk6177968e2kls8h2sk0qec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andreh.Recognizer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
